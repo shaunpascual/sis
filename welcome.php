@@ -84,7 +84,7 @@
 					   <!-- Slide -->
 					   <li>
 						   <div class="flex-caption">
-								<h1>Hello, <?=$firstName?>! <?=$lastName?></h1>															   
+								<h1>Hello, <?=$firstName?> <?=$lastName?>!</h1>															   
 							</div>						
 					   </li>
 
@@ -168,7 +168,7 @@
 
          </div>
 
-         <p class="copyright">&copy; Copyright 2014 Puremedia. Design by <a href="http://www.styleshout.com/">Styleshout.</a></p>        
+         <p class="copyright">&copy; Copyright 2017. Design by <a href="http://www.styleshout.com/">Shaun Pascual.</a></p>        
 
          <div id="go-top">
             <a class="smoothscroll" title="Back to Top" href="#hero"><span>Top</span><i class="fa fa-long-arrow-up"></i></a>
